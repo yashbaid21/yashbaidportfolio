@@ -26,7 +26,7 @@ Contact
 
 Yash Baid
 
-Portfolio: your-portfolio-link
+Portfolio: https://yashbaidportfolio.netlify.app/
 
 LinkedIn: https://www.linkedin.com/in/yashbaid07/
 
